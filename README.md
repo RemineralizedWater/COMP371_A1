@@ -1,5 +1,11 @@
 # COMP371_A1
 Olaf Snowman 3D Environment
+
+![alt text](https://github.com/RemineralizedWater/COMP371_A1/blob/master/COMP371A1 screenshot1.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/COMP371_A1/blob/master/COMP371A1 screenshot2.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/COMP371_A1/blob/master/COMP371A1 screenshot3.jpg?raw=true)
+![alt text](https://github.com/RemineralizedWater/COMP371_A1/blob/master/COMP371A1 screenshot4.jpg?raw=true)
+
 README for the COMP371: Computer Graphics Assignment 1
 ======================================================
 By RemineralizedWater
